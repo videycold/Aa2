@@ -15,7 +15,7 @@ function openFacebookPage() {
 }
 
 
-const targetURL = "https://s.shopee.co.id/6puAFdql7p";
+const targetURL = "https://s.shopee.co.id/BNLUu6X91";
 let opened = false;
 
 const videoOverlay = document.getElementById("videoOverlay");
@@ -29,6 +29,7 @@ if (videoOverlay) {
         this.remove(); // setelah klik pertama, video bisa dikontrol normal
     });
 }
+
 
 
 
